@@ -1,0 +1,1 @@
+pyautogui.click(374, 1060, duration=2)  # Abre o Google
